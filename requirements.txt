@@ -1,0 +1,10 @@
+numpy==1.26.0
+pandas==2.1.1
+requests==2.31.0
+tensorflow==2.13.0
+matplotlib==3.8.0
+python-telegram-bot==20.3
+langchain-core==0.2.5
+langchain-google-genai==0.3.0
+langgraph==0.1.2
+python-dotenv==1.0.0
